@@ -1,5 +1,5 @@
-tailorvj.github.com
-===================
+http://tailorvj.github.io
+=========================
 
 Tailor's static web pages on Github. At the moment I plan to host some reveal.js presentations here: http://tailorvj.github.io/present
 
