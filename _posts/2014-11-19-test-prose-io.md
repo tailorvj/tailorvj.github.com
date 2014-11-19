@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Testing out Prose.io as a web-based Markdown editor
-published: false
+published: true
 ---
 
 ## Testing prose.io
