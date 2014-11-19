@@ -2,14 +2,15 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
 
-Some information about you!
+Hi, 
 
-### More Information
+### I'm a digital distribution channel specialist
 
-A place to include any other types of information that you'd like to include about yourself. 
+My business is to get media out to as many subscribers as possible. Simple as that.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tailor.vj@gmail.com](mailto:tailor.vj@gmail.com)
