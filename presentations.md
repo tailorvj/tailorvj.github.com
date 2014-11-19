@@ -1,7 +1,9 @@
 ---
 layout: page
 title: Presentations
-permalink: /present/
+permalink: /presentations/
 published: true
 ---
+
+### Presentations
 
