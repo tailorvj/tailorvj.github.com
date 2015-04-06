@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tailor Vijay</title>
+    <description>Digital distribution channel specialist. Grassroots media and Open-Source advocate. Activist.</description>
+    <link>http://tailorvj.github.io</link>
+    <atom:link href="http://tailorvj.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Testing out Prose.io as a web-based Markdown editor</title>
+        <description>&lt;h2 id=&quot;testing-proseio&quot;&gt;Testing prose.io&lt;/h2&gt;
+
+&lt;p&gt;Using &lt;a href=&quot;http://prose.io&quot;&gt;Prose.io&lt;/a&gt; Editor to edit this page. I couldn’t find a way to publish it directly from Prose, and it seems to miss some post metadata as well if file created from Prose.io, so I edited  md file locally and pushed to server from laptop. &lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Nov 2014 00:00:00 +0200</pubDate>
+        <link>http://tailorvj.github.io/test-prose-io/</link>
+        <guid isPermaLink="true">http://tailorvj.github.io/test-prose-io/</guid>
+      </item>
+    
+      <item>
+        <title>Media Course for Activists</title>
+        <description>&lt;p&gt;I’ve added a new Reveal.js presentation to 
+&lt;a href=&quot;http://tailorvj.github.io/present/media-for-activists-lesson-01.html&quot;&gt;http://tailorvj.github.io/present/media-for-activists-lesson-01.html&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Fork me!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tailorvj/tailorvj.github.com/blob/master/present/media-for-activists-lesson-01.html&quot;&gt;https://github.com/tailorvj/tailorvj.github.com/blob/master/present/media-for-activists-lesson-01.html&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 19 Nov 2014 00:00:00 +0200</pubDate>
+        <link>http://tailorvj.github.io/Media-Course-for-Activists/</link>
+        <guid isPermaLink="true">http://tailorvj.github.io/Media-Course-for-Activists/</guid>
+      </item>
+    
+      <item>
+        <title>Going Jekyll!</title>
+        <description>&lt;p&gt;This site is built using Jekyll, a static blog management tool that allows you to publish a blog via Github Pages.&lt;/p&gt;
+
+</description>
+        <pubDate>Wed, 19 Nov 2014 00:00:00 +0200</pubDate>
+        <link>http://tailorvj.github.io/Going-Jekyll/</link>
+        <guid isPermaLink="true">http://tailorvj.github.io/Going-Jekyll/</guid>
+      </item>
+    
+  </channel>
+</rss>
