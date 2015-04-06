@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 ## litr8r is for simultaneouse translation in live broadcasts

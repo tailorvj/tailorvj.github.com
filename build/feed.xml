@@ -7,6 +7,38 @@
     <atom:link href="http://tailorvj.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
+        <title>Presenting Litr8r Prototype</title>
+        <description>&lt;h2 id=&quot;litr8r-is-for-simultaneouse-translation-in-live-broadcasts&quot;&gt;litr8r is for simultaneouse translation in live broadcasts&lt;/h2&gt;
+
+&lt;p&gt;Live event translators rejoice, I’ve just published the first prototype of my litr8r live translation software for live broadcasts, codename Shoshana. This is actaully my first ever node.js project and relies on Express.js and Socket.io&lt;/p&gt;
+
+&lt;p&gt;The app currently consists of 2 simple views: Input and Output.&lt;/p&gt;
+
+&lt;p&gt;The translator runs Input and translates by simply typing phrases and pressing Enter to send to the output.&lt;/p&gt;
+
+&lt;p&gt;Output screen is sent to a video mixer, where it is mixed with live video using green screen Chroma key. If you don’t know what that means, get a VJ wink emoticon&lt;/p&gt;
+
+&lt;p&gt;I’m going to run it in production on a Raspberry Pi in the yearly memorial service for Israelis and Palestinians live broadcast on April 21st.&lt;/p&gt;
+
+&lt;p&gt;I put up a demo (use Google Chrome) on Heroku and uploaded project to GitHub. Links:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tranquil-anchorage-5276.herokuapp.com/input&quot;&gt;Input&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://tranquil-anchorage-5276.herokuapp.com&quot;&gt;Output&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://github.com/tailorvj/litr8r&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Next stage for this project would be creation of separate translation rooms I guess. We’ll see how it evolves from there.&lt;/p&gt;
+
+&lt;p&gt;Happy birthday litr8r.&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 06 Apr 2015 00:00:00 +0300</pubDate>
+        <link>http://tailorvj.github.io/Presenting-litr8r-prototype/</link>
+        <guid isPermaLink="true">http://tailorvj.github.io/Presenting-litr8r-prototype/</guid>
+      </item>
+    
+      <item>
         <title>Testing out Prose.io as a web-based Markdown editor</title>
         <description>&lt;h2 id=&quot;testing-proseio&quot;&gt;Testing prose.io&lt;/h2&gt;
 
