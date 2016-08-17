@@ -9,4 +9,4 @@ I've added a new Reveal.js presentation to
 
 Fork me!
 
-[https://github.com/tailorvj/tailorvj.github.com/blob/master/present/media-for-activists-lesson-01.html](https://github.com/tailorvj/tailorvj.github.com/blob/master/present/media-for-activists-lesson-01.html)
+[https://github.com/tailorvj/tailorvj.github.io/blob/master/present/media-for-activists-lesson-01.html](https://github.com/tailorvj/tailorvj.github.io/blob/master/present/media-for-activists-lesson-01.html)
