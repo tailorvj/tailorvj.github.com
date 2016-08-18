@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Civil Media course week 2 has ended and presentations started rolling out
 
