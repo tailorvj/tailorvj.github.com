@@ -3,6 +3,8 @@ published: true
 ---
 ## I'm having trouble updating this site at the moment
 
+Update: Posts are being published using prose.io and Jekyll, but subfolders are not updating. Why?
+
 Update: I got a build warning email saying my Jekyll is using pygments highlighter instead of rouge, so I edited config.yml to fix that. Now editing this post to see if it triggers a site update
 
 This post shouldn't appear at all unless the problem is solved :)
